@@ -35,8 +35,7 @@ yt-etl-app
 
 1. Clone the repository:
    ```
-   git clone <repository-url>
-   cd yt-data-engineering-app
+   git clone https://github.com/billycemerson/TY-ETL-APP>
    ```
 
 2. Install the required packages:
@@ -64,16 +63,16 @@ yt-etl-app
 Here are some screenshots of the application in action:
 
 ### 1. Home Page
-![Home Page](../image/image-1.jpg)
+![Home Page](./image/image-1.jpg)
 
 ### 2. Video Search Results
-![Videos Result After Search](../image/image-2.jpg)
+![Videos Result After Search](./image/image-2.jpg)
 
 ### 3. Video Data Extraction Result
-![Result for Video Data](../image/image-3.jpg)
+![Result for Video Data](./image/image-3.jpg)
 
 ### 4. Comment Data Extraction Result
-![Result for Comment Data](../image/image-4.jpg)
+![Result for Comment Data](./image/image-4.jpg)
 
 ## Contributing
 
