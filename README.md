@@ -35,7 +35,7 @@ yt-etl-app
 
 1. Clone the repository:
    ```
-   git clone https://github.com/billycemerson/TY-ETL-APP
+   git clone https://github.com/billycemerson/YT-ETL-APP>
    ```
 
 2. Install the required packages:
@@ -73,7 +73,3 @@ Here are some screenshots of the application in action:
 
 ### 4. Comment Data Extraction Result
 ![Result for Comment Data](./image/image-4.jpg)
-
-## Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request for any improvements or features you would like to add.
